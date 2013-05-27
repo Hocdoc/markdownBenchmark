@@ -3,7 +3,7 @@ Markdown Benchmarks
 
 A benchmark suit for these JVM Markdown parser:
 
-* [Laika](https://planet42.github.io/Laika): Scala, using parser combinators, understand also [reStructuredText](http://docutils.sourceforge.net/rst.html)
+* [Laika](https://planet42.github.io/Laika): Scala, using parser combinators, understands also [reStructuredText](http://docutils.sourceforge.net/rst.html)
 * [Actuarius](https://github.com/chenkelmann/actuarius): Scala, using parser combinators
 * [Pegdown](https://github.com/sirthias/pegdown): Scala, PEG-Parser ([parboiled](https://github.com/sirthias/parboiled/wiki))
 * [Markdown4J](http://code.google.com/p/markdown4j/): Java, hand-written parser
